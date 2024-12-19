@@ -4384,7 +4384,7 @@
 		)
 		(uuid "39a5ca83-a7a4-4e02-ad63-cb1a80eb366e")
 	)
-	(text "NC"
+	(text "DNP"
 		(exclude_from_sim no)
 		(at 26.67 102.87 0)
 		(effects
@@ -5854,7 +5854,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "81d9c7a5-1652-4b11-a403-0e482d3d6d0b")
 		(property "Reference" "R10"

@@ -1834,7 +1834,7 @@
 			(uuid "fe07d78e-8200-43d1-ae9c-4d7599be57f0")
 		)
 		(instances
-			(project "bitaxeUltra"
+			(project "makeraxe-lite"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "4")
 				)
@@ -1912,7 +1912,7 @@
 			(uuid "3bc71f2d-53ea-4dbd-b8fb-74681448b62d")
 		)
 		(instances
-			(project "bitaxeUltra"
+			(project "makeraxe-lite"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "5")
 				)
@@ -2020,7 +2020,7 @@
 			(uuid "029c510a-ae4a-4626-b80b-34f7d530870f")
 		)
 		(instances
-			(project "bitaxeUltra"
+			(project "makeraxe-lite"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "2")
 				)
@@ -2158,7 +2158,7 @@
 			(uuid "1a2f37ca-553c-4963-bff4-ced19850eeb9")
 		)
 		(instances
-			(project "bitaxeUltra"
+			(project "makeraxe-lite"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(page "3")
 				)
