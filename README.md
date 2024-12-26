@@ -191,9 +191,9 @@ During the realization of this project, you may need tools to assemble the PCB, 
 
 These are the tools we've tested and currently have in our lab, so feel free to check them out if needed. Keep in mind that, even if prices are the same, you can support us in continuing to develop projects like this through the Amazon Influencer Program. Thank you!
 
--Microscope for smd soldering: [LinkMicro 246ms](https://amzn.to/408Ppbb)
--My solder paste: [ChipQuik LowTemp](https://amzn.to/3BA9Rsn)
--My soldering station with power supply: [Yihua 853D](https://amzn.to/4fzq3ry)
+- Microscope for smd soldering: [LinkMicro 246ms](https://amzn.to/408Ppbb)
+- My solder paste: [ChipQuik LowTemp](https://amzn.to/3BA9Rsn)
+- My soldering station with power supply: [Yihua 853D](https://amzn.to/4fzq3ry)
 
 
 <!-- Sponsor -->
