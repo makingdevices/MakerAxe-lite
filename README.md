@@ -36,7 +36,7 @@
 <h3 align="center">Making Devices</h3>
 
   <p align="center">
-    Open Source projects where we struggle with engineering, electronics, coding and who knows what else... Pixel Bytes is an evolution of my previous 8-bit console. The new version is based in the STM32F103CB with IC Leds for a colorwide screen and new power to code new games. 
+    Open Source projects where we struggle with engineering, electronics, coding and who knows what else... MakerAxe-lite is the foundation for new BTC miners and exciting hardware in the future. 
   </p>
 </div>
 
@@ -57,7 +57,8 @@
       <ul>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#goals">Goals</a></li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -72,7 +73,9 @@
 
 [![Bytes Counter Shot][product-screenshot]](https://makingdevices.com/)
 
-"Open Source is Intrinsic to Bitcoin"
+```
+Open Source is Intrinsic to Bitcoin
+```
 
 This is the motto you will see at the top of the [Bitaxe repository](https://github.com/skot/bitaxe), and it’s the reason Why MakerAxe-Lite was created.
 
@@ -84,7 +87,7 @@ The project modifies the original hardware with the following changes:
 2. The 4-layer PCB is reduced to a 2-layer PCB, decreasing the cost of the PCB.
 3. The 5V barrel input connector is replaced with USB PD. The voltage (20V, 15V, or 12V) is yet to be decided. This change ensures compatibility with recycled and reused phone or laptop chargers.
 4. A LED has been added for blinking status and debug purposes.
-5. Software compatibility with the stock AxeOS (aside from the LED indicator).
+5. Software compatibility with the stock [Esp-miner AxeOS](https://github.com/skot/ESP-Miner) (aside from the LED indicator).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,40 +114,48 @@ YET TO BE COMPLETED.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- GOALS -->
+## Goals
+- **Standalone**: can mine directly to your pool over WiFi. No External computer needed.
+- **Embedded**: low cost, low maintenance, high availability, high reliability, low power.
+- **ASIC**: based on the very, very efficient BM1366 from Bitmain.
+- **Versatile**: solo/pool mining, autotune power/heat/efficiency.
+- **Open Source**: All design files are provided.
 
-Instructions of use:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- When turn on, a menu is shown to select between the available games.
-- Once you have played a game, a score board will appear everytime you open the game.
-- You have a setting menu to turn-off the init splash and the sound.
-- If you leave the console one minute without touching the buttons, it will turn into sleep mode.
-- Enjoy!
+<!-- FEATURES -->
+## Features
+- **ESP32-S3-WROOM-1** wifi microcontroller on board
+- **TI TPS40305** buck regulator steps down the input voltage to power the BM1366
+- **Maxim DS4432U+** current DAC digitally adjusts the BM1366 core voltage from 0.04V to 2.4V
+- **TI INA260** power meter measures the input voltage and current of the miner
+- **Microchip EMC2101** PWM controls the fan and monitors tach output. BM1366 doesn't support die temp, but we have it placed super close to the ASIC so we can use the internal temp feature.
+- Enjoy :D!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Validate the Pixel Bytes Display
-- [x] Assembly a prototype with the F103 Board
-- [ ] Order/Assembly the Pixel Bytes Host
-- [ ] Develop the firmware
-  - [ ] Develop the library for the screen
-  - [ ] Develop the menu 
-  - [ ] Develop Snake
-  - [ ] Develop Arkanoid
-  - [ ] Develop Tetris
-  - [ ] Develop a game that uses the gyro sensor
-  - [ ] Score board
-  - [ ] Sleep Mode
-- [ ] Validate the complete design (host + display board)
+- [X] Design the V025 prototype board.
+- [ ] Complete the schematic and BoM files with LCSC&DK codes. 
+- [ ] Order/Assembly the V025 prototype board.
+- [ ] Validate V025 revision
+  - [ ] Check that USB PD Works (12V, 15V, 20V)
+  - [ ] Check the ESP32 can be programmed. 
+  - [ ] AxeOS Self-testing is OK.
+  - [ ] Solder the ASIC and check temperatures.
+  - [ ] Characterice the overall efficiency.
+  - [ ] Stress the buck converter to see if it is enough for next projects.
+  - [ ] Explore alternatives to eliminate 5V rail.
+  - [ ] Develop firmware so the LED can be used. Merge to ESP-miner if possible
+- [ ] Validate the complete design + order PCBA 
 
 
-See the [open issues](https://github.com/makingdevices/PixelBytes/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/makingdevices/MakerAxe-lite/issues) for a full list of proposed features (and known issues).
 
-State: Project <b>ONGOING</b> - 22/09/2024
+State: Project <b>ONGOING</b> - 26/12/2024
 
 Priority: <b>High</b>
 
@@ -180,14 +191,6 @@ Other Links: [LinkTree](https://makingdevices.com/links/)
 
 [![Sponsor Shot][sponsor-pcb-1]][sponsor-url]
 [![Sponsor Shot][sponsor-pcb-2]][sponsor-url]
-
-## Würth Elektronik
-
-[Wurth Elektronik](https://www.we-online.com/en) is one of the leading manufacturers of electronic and electromechanical components. The best I can say about them is to show you some pictures: All the LEDs from the board are from them. They also have buttons, resistors and capacitors that we use in all our PCBs. They also have some design kits with a lifetime refill which are amazing for makers and business so you can prototype on the go with a huge variety of components!
-
-[![Sponsor Shot][sponsor-wurth-1]][sponsor-url-wurth]
-[![Sponsor Shot][sponsor-wurth-3]][sponsor-url-wurth]
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
