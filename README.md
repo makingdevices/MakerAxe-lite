@@ -63,6 +63,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#tools">Tools</a></li>
     <li><a href="#Sponsor">Sponsor</a></li>
   </ol>
 </details>
@@ -88,7 +89,7 @@ The project modifies the original hardware with the following changes:
 2. The 4-layer PCB is reduced to a 2-layer PCB, decreasing the cost of the PCB.
 3. The 5V barrel input connector is replaced with USB PD. The voltage (20V, 15V, or 12V) is yet to be decided. This change ensures compatibility with recycled and reused phone or laptop chargers.
 4. A LED has been added for blinking status and debug purposes.
-5. Software compatibility with the stock [Esp-miner AxeOS](https://github.com/skot/ESP-Miner) (aside from the LED indicator).
+5. Software compatibility with the stock [ESP-miner AxeOS](https://github.com/skot/ESP-Miner) (aside from the LED indicator).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,9 +184,20 @@ Project Link: [https://github.com/makingdevices/MakerAxe-lite](https://github.co
 
 Other Links: [LinkTree](https://makingdevices.com/links/)
 
+<!-- Tools -->
+## Tools
+
+During the realization of this project, you may need tools to assemble the PCB, solder components, and more.
+
+These are the tools we've tested and currently have in our lab, so feel free to check them out if needed. Keep in mind that, even if prices are the same, you can support us in continuing to develop projects like this through the Amazon Influencer Program. Thank you!
+
+-Microscope for smd soldering: [LinkMicro 246ms](https://amzn.to/408Ppbb)
+-My solder paste: [ChipQuik LowTemp](https://amzn.to/3BA9Rsn)
+-My soldering station with power supply: [Yihua 853D](https://amzn.to/4fzq3ry)
+
+
 <!-- Sponsor -->
 ## Sponsors
-## PCBWAY
 
 [PCBWAY](https://www.pcbway.com/?from=makingdevices) is the most professional PCB manufacturer for prototyping and low-volume production to work with in the world. With more than a decade in the field, They are committed to meeting the needs of their customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests. As Sponsor of Making Devices, they will be in charge of all the PCBs for MDV, allowing both of us to grow together in a long term partnership. We hope you take them into account for your both personal and professional prototypes or products.
 
