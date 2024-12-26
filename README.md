@@ -19,6 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Instagram][ig-shield]][ig-url]
+[![Instagram][yt-shield]][yt-url]
 [![PCBWAY][sponsor-shield]][sponsor-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -178,7 +179,7 @@ OSHWA License: Not Finished
 
 Making Devices - [@MakingDevices](https://www.instagram.com/makingdevices/)
 
-Project Link: [https://github.com/makingdevices/PixelBytes](https://github.com/makingdevices/PixelBytes)
+Project Link: [https://github.com/makingdevices/MakerAxe-lite](https://github.com/makingdevices/MakerAxe-lite)
 
 Other Links: [LinkTree](https://makingdevices.com/links/)
 
@@ -196,16 +197,16 @@ Other Links: [LinkTree](https://makingdevices.com/links/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/makingdevices/PixelBytes.svg?style=for-the-badge
-[contributors-url]: https://github.com/makingdevices/PixelBytes/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/makingdevices/PixelBytes.svg?style=for-the-badge
-[forks-url]: https://github.com/makingdevices/PixelBytes/network/members
-[stars-shield]: https://img.shields.io/github/stars/makingdevices/PixelBytes.svg?style=for-the-badge
-[stars-url]: https://github.com/makingdevices/PixelBytes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/makingdevices/PixelBytes.svg?style=for-the-badge
-[issues-url]: https://github.com/makingdevices//PixelBytes/issues
+[contributors-shield]: https://img.shields.io/github/contributors/makingdevices/MakerAxe-lite.svg?style=for-the-badge
+[contributors-url]: https://github.com/makingdevices/MakerAxe-lite/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/makingdevices/MakerAxe-lite.svg?style=for-the-badge
+[forks-url]: https://github.com/makingdevices/MakerAxe-lite/network/members
+[stars-shield]: https://img.shields.io/github/stars/makingdevices/MakerAxe-lite.svg?style=for-the-badge
+[stars-url]: https://github.com/makingdevices/MakerAxe-lite/stargazers
+[issues-shield]: https://img.shields.io/github/issues/makingdevices/MakerAxe-lite.svg?style=for-the-badge
+[issues-url]: https://github.com/makingdevices/MakerAxe-lite/issues
 [license-shield]: /images/license.png
-[license-url]: https://github.com/makingdevices/PixelBytes/tree/main/License
+[license-url]: https://github.com/makingdevices/MakerAxe-lite/tree/main/License
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/making-devices/
 [sponsor-shield]: https://img.shields.io/badge/SPONSOR-PCBWAY-black.svg?style=for-the-badge&colorB=1200
@@ -216,8 +217,8 @@ Other Links: [LinkTree](https://makingdevices.com/links/)
 [sponsor-wurth-1]: /images/wurth_1.gif
 [sponsor-wurth-3]: /images/wurth_3.jpg
 [sponsor-url-wurth]: https://www.we-online.com/en
-[product-screenshot]: images/screenshot.gif
-[ESP32]: https://img.shields.io/badge/ESP32_S3-0000D1?style=for-the-badge
+[product-screenshot]: images/screenshot.jpg
+[ESP32]: https://img.shields.io/badge/ESP32_S3-7c0a02?style=for-the-badge
 [ESP32-url]: https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
 [kicad-shield]: https://img.shields.io/badge/kicad-0b03fc?style=for-the-badge&logo=kicad&logoColor=white
 [kicad-url]: https://www.kicad.org/
@@ -225,6 +226,8 @@ Other Links: [LinkTree](https://makingdevices.com/links/)
 [sponsor-icon]:  https://img.shields.io/badge/-PCBWAY-black.svg?style=for-the-badge&colorB=1200
 [ig-shield]: https://img.shields.io/badge/instagram-a83297?style=for-the-badge&logo=instagram&logoColor=white
 [ig-url]: https://www.instagram.com/makingdevices/
+[yt-shield]: https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white
+[yt-url]: https://www.youtube.com/@MakingDevices
 [MPLAB-C]: https://img.shields.io/badge/MPLAB%20C18-DD0031?style=for-the-badge&logo=C&logoColor=white
 [Arduino]: https://img.shields.io/badge/ARDUINO-00878F?style=for-the-badge&logo=arduino&logoColor=white
 [wurth-icon]: https://img.shields.io/badge/Wurth%20elektronik-FF0031?style=for-the-badge&logoColor=white
