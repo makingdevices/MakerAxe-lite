@@ -93,10 +93,9 @@ The project modifies the original hardware with the following changes:
 
 ### Built With
 
-[![Microcontroller][PIC]][PIC-url]
-[![Arduino][Arduino]][Arduino-url]
+[![Microcontroller][ESP32]][ESP32-url]
+[![](https://dcbadge.vercel.app/api/server/3E8ca2dkcC)](https://discord.gg/3E8ca2dkcC)
 [![Kicad][kicad-shield]][kicad-url]
-[![SPONSOR][wurth-icon]][sponsor-url-wurth]
 [![SPONSOR][sponsor-icon]][sponsor-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -218,8 +217,8 @@ Other Links: [LinkTree](https://makingdevices.com/links/)
 [sponsor-wurth-3]: /images/wurth_3.jpg
 [sponsor-url-wurth]: https://www.we-online.com/en
 [product-screenshot]: images/screenshot.gif
-[PIC]: https://img.shields.io/badge/STM32F103-0000D1?style=for-the-badge
-[PIC-url]: https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html
+[ESP32]: https://img.shields.io/badge/ESP32_S3-0000D1?style=for-the-badge
+[ESP32-url]: https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
 [kicad-shield]: https://img.shields.io/badge/kicad-0b03fc?style=for-the-badge&logo=kicad&logoColor=white
 [kicad-url]: https://www.kicad.org/
 [YT-screenshot]: images/YT_assembly.PNG
