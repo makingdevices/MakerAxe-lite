@@ -147,7 +147,7 @@ YET TO BE COMPLETED.
   - [ ] Check the ESP32 can be programmed. 
   - [ ] AxeOS Self-testing is OK.
   - [ ] Solder the ASIC and check temperatures.
-  - [ ] Characterice the overall efficiency.
+  - [ ] Characterize the overall efficiency.
   - [ ] Stress the buck converter to see if it is enough for next projects.
   - [ ] Explore alternatives to eliminate 5V rail.
   - [ ] Develop firmware so the LED can be used. Merge to ESP-miner if possible
@@ -191,9 +191,9 @@ During the realization of this project, you may need tools to assemble the PCB, 
 
 These are the tools we've tested and currently have in our lab, so feel free to check them out if needed. Keep in mind that, even if prices are the same, you can support us in continuing to develop projects like this through the Amazon Influencer Program. Thank you!
 
-- Microscope for smd soldering: [LinkMicro 246ms](https://amzn.to/408Ppbb)
-- My solder paste: [ChipQuik LowTemp](https://amzn.to/3BA9Rsn)
-- My soldering station with power supply: [Yihua 853D](https://amzn.to/4fzq3ry)
+- Microscope for smd soldering: [LinkMicro 246ms](https://amzn.to/3ZMVvwG)
+- My solder paste: [ChipQuik LowTemp](https://amzn.to/3ZPYBjz)
+- My soldering station with power supply: [Yihua 853D](https://amzn.to/3DwH0Wh)
 
 
 <!-- Sponsor -->
