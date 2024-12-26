@@ -106,9 +106,9 @@ The project modifies the original hardware with the following changes:
 ## Build one
 The project is yet to be finished. Should you want to reproduce it, be careful. 
 
-1. Get the gerber files for the latest version: [MakerAxe-lite V025](/Gerber/Display/pixelbytesdisplay-v0.1) 
-2. Get the gerber files for the latest version: [MakerAxe-lite V025](/Gerber/Host/PixelBytesHostV0.1) 
-3. Send them to a PCB manufacturer ([Our Sponsor is PCBWAY][sponsor-url])
+1. Get the gerber files for the latest version: [MakerAxe-lite V025](/Gerber/makeraxe-litev025.zip) 
+2. Send them to a PCB manufacturer ([Our Sponsor is PCBWAY][sponsor-url])
+3. Schematic (?)
 
 YET TO BE COMPLETED.
 
