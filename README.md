@@ -72,11 +72,19 @@
 
 [![Bytes Counter Shot][product-screenshot]](https://makingdevices.com/)
 
-PixelBytes was born in colaboration with Wurth Elektronik and their new RGB IC LEDs. They sent me a bunch of them to test so I though of making a proper evolution of my previous video console. For this time, I wanted to test a new manufacturer for the microcontroller, so it is my first big project working with the STM32. Hopefully it will help to develop new exciting games as it is arduino-compatible. On top of that, I decided to add a giroscope sensor so we can add more ways to have fun within the gaming experience ;). 
+"Open Source is Intrinsic to Bitcoin"
 
-The project is divided into two steps: 
-1. The first one is the PixelBytesDisplay, which is a matrix of 13x21 IC LEDs divided in 6 strings. 
-2. The second part is the host board, which will mount the microcontroller and all the battery and sensors.
+This is the motto you will see at the top of the [Bitaxe repository](https://github.com/skot/bitaxe), and it’s the reason Why MakerAxe-Lite was created.
+
+MakerAxe Lite is the first attempt to extract the essentials of Bitaxe, reduce it to the minimum, and create a foundation for building new and exciting hardware in the future.
+
+The project modifies the original hardware with the following changes:
+
+1. The screen is not needed, as you now have AxeOS. Therefore, the screen will be removed (DNP) to reduce energy consumption and costs.
+2. The 4-layer PCB is reduced to a 2-layer PCB, decreasing the cost of the PCB.
+3. The 5V barrel input connector is replaced with USB PD. The voltage (20V, 15V, or 12V) is yet to be decided. This change ensures compatibility with recycled and reused phone or laptop chargers.
+4. A LED has been added for blinking status and debug purposes.
+5. Software compatibility with the stock AxeOS (aside from the LED indicator).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,8 +103,8 @@ The project is divided into two steps:
 ## Build one
 The project is yet to be finished. Should you want to reproduce it, be careful. 
 
-1. Get the gerber files for the latest version: [Pixel Bytes Display V0.1](/Gerber/Display/pixelbytesdisplay-v0.1) 
-2. Get the gerber files for the latest version: [Pixel Bytes Host V0.1](/Gerber/Host/PixelBytesHostV0.1) 
+1. Get the gerber files for the latest version: [MakerAxe-lite V025](/Gerber/Display/pixelbytesdisplay-v0.1) 
+2. Get the gerber files for the latest version: [MakerAxe-lite V025](/Gerber/Host/PixelBytesHostV0.1) 
 3. Send them to a PCB manufacturer ([Our Sponsor is PCBWAY][sponsor-url])
 
 YET TO BE COMPLETED.
