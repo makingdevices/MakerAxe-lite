@@ -227,7 +227,7 @@ These are the tools we've tested and currently have in our lab, so feel free to 
 [sponsor-wurth-1]: /images/wurth_1.gif
 [sponsor-wurth-3]: /images/wurth_3.jpg
 [sponsor-url-wurth]: https://www.we-online.com/en
-[product-screenshot]: images/screenshot.jpg
+[product-screenshot]: images/render_front_pcb.png
 [ESP32]: https://img.shields.io/badge/ESP32_S3-7c0a02?style=for-the-badge
 [ESP32-url]: https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
 [kicad-shield]: https://img.shields.io/badge/kicad-0b03fc?style=for-the-badge&logo=kicad&logoColor=white
