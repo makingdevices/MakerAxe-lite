@@ -3280,12 +3280,6 @@
 		(uuid "a93e32a3-6f16-494f-8082-8bf5569d8d71")
 	)
 	(junction
-		(at 38.1 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bc71a62c-fe87-47d4-9c03-df26ca9b31a3")
-	)
-	(junction
 		(at 35.56 81.915)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3602,16 +3596,6 @@
 			(type default)
 		)
 		(uuid "39cfac2b-11bb-42af-af85-36789222f163")
-	)
-	(wire
-		(pts
-			(xy 29.21 113.03) (xy 29.21 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a234a7c-5577-4cd4-bf61-5f68d438e0ed")
 	)
 	(wire
 		(pts
@@ -4235,16 +4219,6 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 113.03) (xy 29.21 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e74d52da-cffa-48d3-bbd9-52bbf63c12ff")
-	)
-	(wire
-		(pts
 			(xy 53.34 97.79) (xy 53.34 95.25)
 		)
 		(stroke
@@ -4384,16 +4358,6 @@
 		)
 		(uuid "39a5ca83-a7a4-4e02-ad63-cb1a80eb366e")
 	)
-	(text "DNP"
-		(exclude_from_sim no)
-		(at 26.67 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "4d880c57-2f34-4972-8171-bdf85f197387")
-	)
 	(text "ESP32 3V3 LDO"
 		(exclude_from_sim no)
 		(at 41.91 45.72 0)
@@ -4450,7 +4414,6 @@
 	)
 	(label "P_RX"
 		(at 51.435 170.815 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4459,20 +4422,8 @@
 		)
 		(uuid "1011cd58-ef92-44b0-adb9-7928857a7506")
 	)
-	(label "GND"
-		(at 29.21 99.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "216dd7cd-e5b2-4689-a17d-c1a6383cbf3a")
-	)
 	(label "RST"
 		(at 69.85 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4483,7 +4434,6 @@
 	)
 	(label "5V"
 		(at 204.47 53.975 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4494,7 +4444,6 @@
 	)
 	(label "P_TX"
 		(at 51.435 168.275 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4505,7 +4454,6 @@
 	)
 	(label "3V3"
 		(at 43.815 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4516,7 +4464,6 @@
 	)
 	(label "EN"
 		(at 51.435 165.735 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4527,7 +4474,6 @@
 	)
 	(label "GND"
 		(at 184.912 29.845 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4538,7 +4484,6 @@
 	)
 	(label "GND"
 		(at 224.79 92.075 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4549,7 +4494,6 @@
 	)
 	(label "XOUT32"
 		(at 150.495 29.845 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4560,7 +4504,6 @@
 	)
 	(label "EN"
 		(at 68.58 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4571,7 +4514,6 @@
 	)
 	(label "P_RX"
 		(at 195.58 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4582,7 +4524,6 @@
 	)
 	(label "IO0"
 		(at 68.58 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4593,7 +4534,6 @@
 	)
 	(label "GND"
 		(at 125.73 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4604,7 +4544,6 @@
 	)
 	(label "3V3"
 		(at 66.675 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4615,7 +4554,6 @@
 	)
 	(label "SDA"
 		(at 195.58 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4626,7 +4564,6 @@
 	)
 	(label "GND"
 		(at 224.79 111.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4637,7 +4574,6 @@
 	)
 	(label "GND"
 		(at 188.595 61.595 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4648,7 +4584,6 @@
 	)
 	(label "XIN32"
 		(at 69.85 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4659,7 +4594,6 @@
 	)
 	(label "TX"
 		(at 70.485 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4670,7 +4604,6 @@
 	)
 	(label "GND"
 		(at 138.43 42.545 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4681,7 +4614,6 @@
 	)
 	(label "3V3"
 		(at 76.835 165.735 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4692,7 +4624,6 @@
 	)
 	(label "3V3"
 		(at 69.85 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4703,7 +4634,6 @@
 	)
 	(label "IO0"
 		(at 76.835 170.815 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4714,7 +4644,6 @@
 	)
 	(label "SCL"
 		(at 195.58 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4725,7 +4654,6 @@
 	)
 	(label "XOUT32"
 		(at 69.85 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4736,7 +4664,6 @@
 	)
 	(label "SCL"
 		(at 184.912 34.925 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4747,7 +4674,6 @@
 	)
 	(label "XIN32"
 		(at 116.84 29.845 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4758,7 +4684,6 @@
 	)
 	(label "GND"
 		(at 201.93 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4769,7 +4694,6 @@
 	)
 	(label "GND"
 		(at 45.72 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4780,7 +4704,6 @@
 	)
 	(label "SDA"
 		(at 184.912 37.465 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4791,7 +4714,6 @@
 	)
 	(label "PLUG_SENSE"
 		(at 40.64 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4802,7 +4724,6 @@
 	)
 	(label "3V3"
 		(at 125.73 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4813,7 +4734,6 @@
 	)
 	(label "P_TX"
 		(at 195.58 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4824,7 +4744,6 @@
 	)
 	(label "3V3"
 		(at 184.912 32.385 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4835,7 +4754,6 @@
 	)
 	(label "GND"
 		(at 25.4 92.075 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4846,7 +4764,6 @@
 	)
 	(label "5V"
 		(at 33.655 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4857,7 +4774,6 @@
 	)
 	(label "GND"
 		(at 76.835 168.275 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4868,7 +4784,6 @@
 	)
 	(label "GND"
 		(at 48.895 42.545 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4879,7 +4794,6 @@
 	)
 	(label "3V3"
 		(at 35.56 66.675 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4890,7 +4804,6 @@
 	)
 	(label "RX"
 		(at 70.485 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4924,7 +4837,6 @@
 	(hierarchical_label "TX"
 		(shape input)
 		(at 66.04 125.73 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4936,7 +4848,6 @@
 	(hierarchical_label "RX"
 		(shape input)
 		(at 66.04 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4948,7 +4859,6 @@
 	(hierarchical_label "3V3"
 		(shape input)
 		(at 73.025 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4960,7 +4870,6 @@
 	(hierarchical_label "SCL"
 		(shape input)
 		(at 200.025 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4972,7 +4881,6 @@
 	(hierarchical_label "RST"
 		(shape input)
 		(at 66.04 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4984,7 +4892,6 @@
 	(hierarchical_label "SDA"
 		(shape input)
 		(at 200.025 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4996,7 +4903,6 @@
 	(hierarchical_label "PGOOD"
 		(shape output)
 		(at 66.04 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5008,7 +4914,6 @@
 	(hierarchical_label "PWR_EN"
 		(shape output)
 		(at 51.435 107.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5020,7 +4925,6 @@
 	(hierarchical_label "5V"
 		(shape input)
 		(at 23.495 29.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5032,7 +4936,6 @@
 	(hierarchical_label "VDD"
 		(shape input)
 		(at 66.04 87.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5842,94 +5745,6 @@
 			(project "bitaxeUltra"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ca857324-2ec8-447e-bd58-90d0c2e6b6d7"
 					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 29.21 102.87 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "81d9c7a5-1652-4b11-a403-0e482d3d6d0b")
-		(property "Reference" "R10"
-			(at 31.75 101.5999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "0"
-			(at 31.75 104.1399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 28.194 102.616 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 29.21 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 29.21 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DK" "311-1.00MLRCT-ND"
-			(at 29.21 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "RC0402FR-071ML"
-			(at 29.21 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bf8f764f-9557-451a-aa38-ea716b7e00ec")
-		)
-		(pin "2"
-			(uuid "17e2e4b6-9245-4060-bcc1-ecb7a2d6653f")
-		)
-		(instances
-			(project "bitaxeUltra"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ca857324-2ec8-447e-bd58-90d0c2e6b6d7"
-					(reference "R10")
 					(unit 1)
 				)
 			)

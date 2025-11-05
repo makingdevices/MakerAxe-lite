@@ -3394,6 +3394,430 @@
 				)
 			)
 		)
+		(symbol "bitaxe:T491A474K025AT7280"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "T491A474K025AT7280"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "T491A"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2005_T491.pdf"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "T491, Tantalum, MnO2 Tantalum, Commercial Grade, .47 uF, 10%, 25 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, 4 % , 13 Ohms, 500 nA, 58.6 mg, 3216, 1.6mm, Height Max = 1.8mm, 9000, 156  Weeks"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.8"
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "80-T491A474K025AT"
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/T491A474K025AT7280?qs=axzvp2Rdp5%252B5U7eVh0AU4g%3D%3D"
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "KEMET"
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "T491A474K025AT7280"
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "T491A474K025AT7280_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.064 1.778) (xy 4.064 0.762)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.572 1.27) (xy 3.556 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54) (xy 6.858 -2.54) (xy 6.858 2.54) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 5.08 2.54)
+					(end 5.842 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "bitaxe:T495C226K025ATE300"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "T495C226K025ATE300"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "T495C"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "T495, Tantalum, MnO2 Tantalum, Commercial Grade, 22 uF, 10%, 25 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, Low ESR, 8 % , 300 mOhms, 5500 nA, 224.48 mg, 6032, 2.5mm, Height Max = 2.8mm, 500, 156  Weeks"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "2.8"
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "80-T495C226K25E300"
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/T495C226K025ATE300?qs=bQqEcw2qv2Rc8vCMsxIK1A%3D%3D"
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "KEMET"
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "T495C226K025ATE300"
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "T495C226K025ATE300_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.064 1.778) (xy 4.064 0.762)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.572 1.27) (xy 3.556 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54) (xy 6.858 -2.54) (xy 6.858 2.54) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 5.08 2.54)
+					(end 5.842 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "bitaxe:TPS40305"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3886,12 +4310,6 @@
 		(uuid "0512750b-38d3-4ed7-96f4-688966eb461d")
 	)
 	(junction
-		(at 102.87 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "07335324-8291-44eb-adad-a0130ae02978")
-	)
-	(junction
 		(at 201.93 61.595)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3916,16 +4334,16 @@
 		(uuid "1d5609d0-8817-4f46-9e34-be6e3d5ee99c")
 	)
 	(junction
-		(at 102.87 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "25f142e4-795c-461d-8df1-4ee08dc11b36")
-	)
-	(junction
 		(at 180.34 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35c075ac-8e54-4cdd-b1a6-6360481e7b8e")
+	)
+	(junction
+		(at 105.41 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39b6d104-1622-44c5-a44f-fa9fc98de354")
 	)
 	(junction
 		(at 145.415 42.545)
@@ -3986,6 +4404,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3132444-f6ab-49f0-8049-bfe815428d3b")
+	)
+	(junction
+		(at 105.41 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aed0ec4e-f8b5-404a-bc25-a159407f9680")
 	)
 	(junction
 		(at 57.531 30.48)
@@ -4090,10 +4514,6 @@
 		(uuid "fff43905-ed69-465c-ba58-21faa70bd0dd")
 	)
 	(no_connect
-		(at 114.3 109.22)
-		(uuid "1259d21d-6921-4d36-adf0-acf6f63b68f9")
-	)
-	(no_connect
 		(at 254 124.46)
 		(uuid "495db2f3-5325-4540-9ab5-35202dd32636")
 	)
@@ -4137,13 +4557,13 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 160.02) (xy 106.68 160.02)
+			(xy 105.41 154.94) (xy 106.68 154.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "074294c2-a51b-46ba-8768-a06d6acb108c")
+		(uuid "017b9a89-42f8-444a-b172-bd1eefc8d9e2")
 	)
 	(wire
 		(pts
@@ -4167,7 +4587,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 93.98) (xy 118.11 96.52)
+			(xy 123.19 93.98) (xy 123.19 96.52)
 		)
 		(stroke
 			(width 0)
@@ -4237,6 +4657,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 109.22) (xy 116.84 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13165f7e-d3af-4c56-a795-ddd1ff3abad7")
+	)
+	(wire
+		(pts
 			(xy 243.205 48.895) (xy 243.205 39.37)
 		)
 		(stroke
@@ -4277,7 +4707,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 154.94) (xy 106.68 154.94)
+			(xy 91.44 154.94) (xy 105.41 154.94)
 		)
 		(stroke
 			(width 0)
@@ -4577,6 +5007,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 91.44) (xy 116.84 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dc4d52b-58d3-462d-855c-0feb67d86c94")
+	)
+	(wire
+		(pts
 			(xy 55.245 178.435) (xy 41.91 178.435)
 		)
 		(stroke
@@ -4787,6 +5227,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 109.22) (xy 116.84 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d3609b1-995f-479f-bb49-c58cfa7f1dfb")
+	)
+	(wire
+		(pts
 			(xy 76.2 95.25) (xy 76.2 96.52)
 		)
 		(stroke
@@ -4827,7 +5277,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 111.76) (xy 114.3 111.76)
+			(xy 123.19 111.76) (xy 114.3 111.76)
 		)
 		(stroke
 			(width 0)
@@ -5027,6 +5477,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 160.02) (xy 106.68 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d98ab09-e0e1-470d-b206-0165a3f3bbfd")
+	)
+	(wire
+		(pts
 			(xy 76.2 93.98) (xy 76.2 95.25)
 		)
 		(stroke
@@ -5147,7 +5607,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 104.14) (xy 118.11 111.76)
+			(xy 123.19 104.14) (xy 123.19 111.76)
 		)
 		(stroke
 			(width 0)
@@ -5297,7 +5757,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 160.02) (xy 102.87 160.02)
+			(xy 90.17 160.02) (xy 105.41 160.02)
 		)
 		(stroke
 			(width 0)
@@ -5577,16 +6037,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 154.94) (xy 102.87 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddefe1a8-539f-454b-82d4-89401a1dbd33")
-	)
-	(wire
-		(pts
 			(xy 55.245 170.18) (xy 55.245 178.435)
 		)
 		(stroke
@@ -5783,7 +6233,7 @@
 	)
 	(text "We need to have a 5V rail for the rest LDO and the FAN itself"
 		(exclude_from_sim no)
-		(at 88.646 170.942 0)
+		(at 112.268 170.688 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5858,7 +6308,6 @@
 	)
 	(label "DP"
 		(at 83.82 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5869,7 +6318,6 @@
 	)
 	(label "3V3"
 		(at 212.725 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5880,7 +6328,6 @@
 	)
 	(label "SDA"
 		(at 221.615 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5891,7 +6338,6 @@
 	)
 	(label "VIN_M"
 		(at 25.4 30.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5901,8 +6347,7 @@
 		(uuid "14159be8-9c9d-4697-9134-ba2bd5a20d78")
 	)
 	(label "GND"
-		(at 102.87 167.64 180)
-		(fields_autoplaced yes)
+		(at 105.41 172.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5913,7 +6358,6 @@
 	)
 	(label "GND"
 		(at 233.68 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5924,7 +6368,6 @@
 	)
 	(label "VIN_M"
 		(at 23.495 183.515 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5935,7 +6378,6 @@
 	)
 	(label "GND"
 		(at 61.976 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5946,7 +6388,6 @@
 	)
 	(label "GND"
 		(at 106.68 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5957,7 +6398,6 @@
 	)
 	(label "Vin_20V"
 		(at 22.86 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5968,7 +6408,6 @@
 	)
 	(label "GND"
 		(at 41.91 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5979,7 +6418,6 @@
 	)
 	(label "Vin_20V"
 		(at 179.07 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5990,7 +6428,6 @@
 	)
 	(label "GND"
 		(at 76.2 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6001,7 +6438,6 @@
 	)
 	(label "Vin_20V"
 		(at 91.44 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6012,7 +6448,6 @@
 	)
 	(label "port_CC2"
 		(at 114.3 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6023,7 +6458,6 @@
 	)
 	(label "GND"
 		(at 149.86 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6034,7 +6468,6 @@
 	)
 	(label "Vin_20V"
 		(at 63.5 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6045,7 +6478,6 @@
 	)
 	(label "port_CC2"
 		(at 172.72 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6056,7 +6488,6 @@
 	)
 	(label "GND"
 		(at 157.48 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6066,8 +6497,7 @@
 		(uuid "65fe52ca-eca7-4af6-baa0-1fa9782fbdb6")
 	)
 	(label "GND"
-		(at 102.87 147.32 180)
-		(fields_autoplaced yes)
+		(at 105.41 142.24 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6078,7 +6508,6 @@
 	)
 	(label "3V3"
 		(at 41.91 150.495 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6089,7 +6518,6 @@
 	)
 	(label "GND"
 		(at 176.53 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6100,7 +6528,6 @@
 	)
 	(label "PGOOD"
 		(at 144.78 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6111,7 +6538,6 @@
 	)
 	(label "GND"
 		(at 19.05 173.355 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6122,7 +6548,6 @@
 	)
 	(label "DM"
 		(at 175.26 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6133,7 +6558,6 @@
 	)
 	(label "GND"
 		(at 144.78 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6144,7 +6568,6 @@
 	)
 	(label "Vin_20V"
 		(at 26.67 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6155,7 +6578,6 @@
 	)
 	(label "SCL"
 		(at 55.88 162.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6166,7 +6588,6 @@
 	)
 	(label "VOUT"
 		(at 245.745 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6177,7 +6598,6 @@
 	)
 	(label "3V3"
 		(at 19.05 160.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6188,7 +6608,6 @@
 	)
 	(label "OUT1"
 		(at 248.92 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6197,9 +6616,18 @@
 		)
 		(uuid "ad3b6684-0d44-4fc4-8e19-7a66215c3764")
 	)
+	(label "GND"
+		(at 116.84 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b7a87d97-fe1f-4ea7-b852-ebe86192ae7b")
+	)
 	(label "port_CC1"
 		(at 172.72 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6210,7 +6638,6 @@
 	)
 	(label "DP"
 		(at 175.26 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6221,7 +6648,6 @@
 	)
 	(label "SCL"
 		(at 221.615 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6232,7 +6658,6 @@
 	)
 	(label "SDA"
 		(at 55.88 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6243,7 +6668,6 @@
 	)
 	(label "DM"
 		(at 83.82 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6254,7 +6678,6 @@
 	)
 	(label "OUT0"
 		(at 217.17 61.595 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6265,7 +6688,6 @@
 	)
 	(label "OUT0"
 		(at 248.92 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6276,7 +6698,6 @@
 	)
 	(label "port_CC1"
 		(at 114.3 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6287,7 +6708,6 @@
 	)
 	(label "GND"
 		(at 232.41 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6297,8 +6717,7 @@
 		(uuid "d735f87b-3963-4032-9621-7e6262998b22")
 	)
 	(label "Vin_20V"
-		(at 118.11 93.98 0)
-		(fields_autoplaced yes)
+		(at 123.19 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6309,7 +6728,6 @@
 	)
 	(label "VIN_M"
 		(at 24.13 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6320,7 +6738,6 @@
 	)
 	(label "3V3"
 		(at 224.79 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6331,7 +6748,6 @@
 	)
 	(label "PGOOD"
 		(at 217.17 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6342,7 +6758,6 @@
 	)
 	(label "GND"
 		(at 101.6 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6353,7 +6768,6 @@
 	)
 	(label "SW"
 		(at 180.34 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6364,7 +6778,6 @@
 	)
 	(label "GND"
 		(at 139.7 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6398,7 +6811,6 @@
 	(hierarchical_label "SDA"
 		(shape input)
 		(at 218.44 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6410,7 +6822,6 @@
 	(hierarchical_label "5V"
 		(shape output)
 		(at 90.17 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6422,7 +6833,6 @@
 	(hierarchical_label "SCL"
 		(shape input)
 		(at 218.44 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6434,7 +6844,6 @@
 	(hierarchical_label "3V3"
 		(shape input)
 		(at 41.91 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6446,7 +6855,6 @@
 	(hierarchical_label "VOUT"
 		(shape input)
 		(at 254 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6458,7 +6866,6 @@
 	(hierarchical_label "PWR_EN"
 		(shape input)
 		(at 60.706 61.468 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6470,7 +6877,6 @@
 	(hierarchical_label "3V3"
 		(shape input)
 		(at 201.93 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6482,7 +6888,6 @@
 	(hierarchical_label "PGOOD"
 		(shape output)
 		(at 230.505 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7890,6 +8295,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 116.84 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3ef21104-5ace-4773-a21d-df5f837a35ce")
+		(property "Reference" "R10"
+			(at 119.38 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "24K"
+			(at 119.38 99.0599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 117.856 98.044 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 116.84 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK" "311-3.83KLRCT-ND"
+			(at 116.84 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402FR-073K83L"
+			(at 116.84 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ba69f87-3950-479f-91b3-9ac706694969")
+		)
+		(pin "2"
+			(uuid "3e2e3e00-b6e5-4e61-a539-37df17bf634e")
+		)
+		(instances
+			(project "makeraxe-lite"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 243.205 52.705 0)
 		(unit 1)
@@ -8154,6 +8647,128 @@
 		)
 	)
 	(symbol
+		(lib_id "bitaxe:T495C226K025ATE300")
+		(at 105.41 160.02 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51a9d65f-8380-426b-8fa1-c74be3647d19")
+		(property "Reference" "C53"
+			(at 109.22 165.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22uF"
+			(at 109.22 167.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "bitaxe:T495C"
+			(at 9.22 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"
+			(at -90.78 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "T495, Tantalum, MnO2 Tantalum, Commercial Grade, 22 uF, 10%, 25 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, Low ESR, 8 % , 300 mOhms, 5500 nA, 224.48 mg, 6032, 2.5mm, Height Max = 2.8mm, 500, 156  Weeks"
+			(at 105.41 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.8"
+			(at -290.78 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-T495C226K25E300"
+			(at -390.78 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/T495C226K025ATE300?qs=bQqEcw2qv2Rc8vCMsxIK1A%3D%3D"
+			(at -490.78 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at -590.78 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "T495C226K025ATE300"
+			(at -690.78 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f27eee40-9119-4b46-8c0a-27dc86db7d2d")
+		)
+		(pin "1"
+			(uuid "a8dcceb7-760a-4ed7-977f-40aebd150920")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
+					(reference "C53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 212.725 68.58 0)
 		(unit 1)
@@ -8243,7 +8858,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 118.11 100.33 0)
+		(at 123.19 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8252,7 +8867,7 @@
 		(fields_autoplaced yes)
 		(uuid "55594460-a79f-437b-ab3f-cd9077f25c97")
 		(property "Reference" "R3"
-			(at 120.65 99.0599 0)
+			(at 125.73 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8261,7 +8876,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 120.65 101.5999 0)
+			(at 125.73 101.5999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8270,7 +8885,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 119.126 100.584 90)
+			(at 124.206 100.584 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8279,7 +8894,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 100.33 0)
+			(at 123.19 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8288,7 +8903,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 118.11 100.33 0)
+			(at 123.19 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8297,7 +8912,7 @@
 			)
 		)
 		(property "DK" "311-3.83KLRCT-ND"
-			(at 118.11 100.33 0)
+			(at 123.19 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8306,7 +8921,7 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-073K83L"
-			(at 118.11 100.33 0)
+			(at 123.19 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9177,93 +9792,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 102.87 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a48ba124-bd55-4c7f-82d4-7fce70410b68")
-		(property "Reference" "C10"
-			(at 106.426 149.098 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.47uF"
-			(at 105.664 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 103.8352 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 102.87 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 102.87 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DK" "1276-6471-1-ND"
-			(at 102.87 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "CL21B105KOFNNNG"
-			(at 102.87 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ac7cd22f-c2fe-404e-9d54-f87e48a3b4ba")
-		)
-		(pin "2"
-			(uuid "2c3d1d8c-4b86-4adc-bf14-da43cf29c0aa")
-		)
-		(instances
-			(project "bitaxeUltra"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
-					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 201.93 45.72 0)
 		(unit 1)
@@ -9551,7 +10079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT230P700X180-4N"
+		(property "Footprint" "Package_TO_SOT_SMD:TO-263-3_TabPin2"
 			(at 140.97 249.86 0)
 			(effects
 				(font
@@ -9836,6 +10364,128 @@
 		)
 	)
 	(symbol
+		(lib_id "bitaxe:T491A474K025AT7280")
+		(at 105.41 154.94 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cdd44ba3-fbbc-453a-83b6-9a5a27fb8888")
+		(property "Reference" "C52"
+			(at 109.22 147.3199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0.47uF"
+			(at 109.22 149.8599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "bitaxe:T491A"
+			(at 201.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_T2005_T491.pdf"
+			(at 301.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "T491, Tantalum, MnO2 Tantalum, Commercial Grade, .47 uF, 10%, 25 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, 4 % , 13 Ohms, 500 nA, 58.6 mg, 3216, 1.6mm, Height Max = 1.8mm, 9000, 156  Weeks"
+			(at 105.41 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.8"
+			(at 501.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-T491A474K025AT"
+			(at 601.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/T491A474K025AT7280?qs=axzvp2Rdp5%252B5U7eVh0AU4g%3D%3D"
+			(at 701.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 801.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "T491A474K025AT7280"
+			(at 901.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "727776ed-bf8e-4751-9fa8-3a14aadc15cf")
+		)
+		(pin "1"
+			(uuid "1071d463-c0f4-4a91-894f-330ec89d4891")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
+					(reference "C52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 170.18 61.595 0)
 		(unit 1)
@@ -10092,93 +10742,6 @@
 			(project "bitaxeUltra"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
 					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 102.87 163.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f10354db-b481-41b6-b072-706667c4d375")
-		(property "Reference" "C11"
-			(at 105.918 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "22uF"
-			(at 105.918 166.116 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 103.8352 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 102.87 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 102.87 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DK" "1276-6471-1-ND"
-			(at 102.87 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "CL21B105KOFNNNG"
-			(at 102.87 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c620ec23-dba6-402f-a454-7a09ae732ebc")
-		)
-		(pin "2"
-			(uuid "07961d8f-4555-4e5e-9563-ebfef5942cd3")
-		)
-		(instances
-			(project "bitaxeUltra"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
-					(reference "C11")
 					(unit 1)
 				)
 			)

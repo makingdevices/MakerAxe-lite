@@ -1368,7 +1368,6 @@
 	)
 	(label "FAN_PWM"
 		(at 160.02 78.105 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1379,7 +1378,6 @@
 	)
 	(label "GND"
 		(at 160.02 83.185 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1390,7 +1388,6 @@
 	)
 	(label "SCL"
 		(at 164.465 73.025 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1401,7 +1398,6 @@
 	)
 	(label "3V3"
 		(at 147.32 100.965 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1412,7 +1408,6 @@
 	)
 	(label "FAN_TACH"
 		(at 120.015 83.185 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1423,7 +1418,6 @@
 	)
 	(label "GND"
 		(at 156.845 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1434,7 +1428,6 @@
 	)
 	(label "FAN_PWM"
 		(at 168.91 108.585 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1445,7 +1438,6 @@
 	)
 	(label "3V3"
 		(at 184.15 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1456,7 +1448,6 @@
 	)
 	(label "3V3"
 		(at 125.095 73.025 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1467,7 +1458,6 @@
 	)
 	(label "5V"
 		(at 137.795 113.665 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1478,7 +1468,6 @@
 	)
 	(label "SDA"
 		(at 164.465 75.565 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1489,7 +1478,6 @@
 	)
 	(label "FAN_TACH"
 		(at 168.91 111.125 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1523,7 +1511,6 @@
 	(hierarchical_label "5V"
 		(shape input)
 		(at 135.255 113.665 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1535,7 +1522,6 @@
 	(hierarchical_label "SCL"
 		(shape input)
 		(at 170.815 73.025 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1547,7 +1533,6 @@
 	(hierarchical_label "SDA"
 		(shape input)
 		(at 170.815 75.565 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1559,7 +1544,6 @@
 	(hierarchical_label "3V3"
 		(shape input)
 		(at 194.31 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

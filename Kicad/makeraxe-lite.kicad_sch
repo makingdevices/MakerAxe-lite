@@ -6,8 +6,8 @@
 	(paper "A")
 	(title_block
 		(title "MakerAxe Lite")
-		(date "2024-12-16")
-		(rev "204")
+		(date "2025-02-06")
+		(rev "035")
 	)
 	(lib_symbols
 		(symbol "Mechanical:Fiducial"
@@ -650,7 +650,6 @@
 	)
 	(label "VDD"
 		(at 165.735 83.185 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -661,7 +660,6 @@
 	)
 	(label "3V3"
 		(at 103.505 76.835 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -672,7 +670,6 @@
 	)
 	(label "RST"
 		(at 165.735 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -683,7 +680,6 @@
 	)
 	(label "VDD"
 		(at 108.585 71.755 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -694,7 +690,6 @@
 	)
 	(label "5V"
 		(at 105.41 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -705,7 +700,6 @@
 	)
 	(label "5V"
 		(at 167.64 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -716,7 +710,6 @@
 	)
 	(label "SDA"
 		(at 198.12 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -727,7 +720,6 @@
 	)
 	(label "RX"
 		(at 165.735 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -738,7 +730,6 @@
 	)
 	(label "3V3"
 		(at 133.35 43.815 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -749,7 +740,6 @@
 	)
 	(label "3V3"
 		(at 165.735 85.725 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -760,7 +750,6 @@
 	)
 	(label "SCL"
 		(at 198.12 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -771,7 +760,6 @@
 	)
 	(label "5V"
 		(at 165.735 88.265 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -782,7 +770,6 @@
 	)
 	(label "3V3"
 		(at 167.64 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -793,7 +780,6 @@
 	)
 	(label "5V"
 		(at 103.505 74.295 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -804,7 +790,6 @@
 	)
 	(label "TX"
 		(at 165.735 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -1,0 +1,24 @@
+### Footprint positions - created on 2025-02-04T21:04:14+0100 ###
+### Printed by KiCad version 8.0.8
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                      Package                                                       PosX       PosY       Rot  Side
+C49       220uF                    CP_Elec_6.3x7.7                                           103.4900  -141.4200  -90.0000  bottom
+C52       0.47uF                   T491A                                                     105.7750   -52.5700   90.0000  bottom
+C53       22uF                     T495C                                                     111.2000   -52.5700   90.0000  bottom
+D2        LED                      LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder             110.0000   -59.9500  -90.0000  bottom
+FID5      Fiducial                 Fiducial_1mm_Mask2mm                                      125.2700   -50.3100  180.0000  bottom
+FID6      Fiducial                 Fiducial_1mm_Mask2mm                                       78.7500   -55.9000  180.0000  bottom
+FID7      Fiducial                 Fiducial_1mm_Mask2mm                                      132.2600  -139.0600  180.0000  bottom
+FID8      Fiducial                 Fiducial_1mm_Mask2mm                                       78.8500  -139.0700  180.0000  bottom
+J1        Conn_01x02               PinHeader_1x02_P2.54mm_Vertical                            83.0000   -76.5400  -90.0000  bottom
+J2        USB_C_Receptacle_USB2.0  USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal    80.9400   -65.1500   90.0000  bottom
+J4        Conn_01x04               PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Right              87.2050   -54.0900  180.0000  bottom
+J5        USB_C_Receptacle_USB2.0  USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal   130.0480   -92.4560  -90.0000  bottom
+J6        Conn_01x04               470531000                                                  89.6210  -143.6220    0.0000  bottom
+R19       220                      R_0402_1005Metric                                         111.6000   -60.8900  -90.0000  bottom
+SW1       GT-TC029B-H025-L1N       SW_CS1213AGF260_CRS                                       130.1860  -104.4480  180.0000  bottom
+SW2       GT-TC029B-H025-L1N       SW_CS1213AGF260_CRS                                       130.0820  -113.1550  180.0000  bottom
+U7        ESP32-S3-WROOM-1         ESP32-S3-WROOM-1                                          117.4300   -72.6100   90.0000  bottom
+U9        BM1366_mode1             BM1366                                                    105.6120  -116.0680  180.0000  bottom
+## End
